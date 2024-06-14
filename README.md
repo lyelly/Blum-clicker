@@ -2,13 +2,13 @@ Forked from https://github.com/meKryztal/Blum-clicker/tree/main
 
 Для начала надо установить **Python 3.11.0**
 
-Кликабельные прямые ссылки для вашего Windows
+- Кликабельные прямые ссылки для вашего Windows
     - [Windows installer (64-bit)](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
     - [Windows installer (32 -bit)](https://www.python.org/ftp/python/3.11.0/python-3.11.0.exe)
 
 **Что бы использовать скрипт запустите файл main.py**
 
-Скрипт автоматоматически установит все зависимости и перезагрузится
+- Скрипт автоматоматически установит все зависимости и перезагрузится
 
 ***Существует 4 режима работы скрипта***
 
