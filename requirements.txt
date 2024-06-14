@@ -1,5 +1,0 @@
-pyautogui
-keyboard
-pynput
-pygetwindow
-tk
