@@ -25,11 +25,11 @@ def main():
         if choice == '1':
             subprocess.run([sys.executable, 'files/start.py'])
         elif choice == '2':
-            subprocess.run([sys.executable, 'files/start1.py'])
+            subprocess.run([sys.executable, 'files/start_1.py'])
         elif choice == '3':
-            subprocess.run([sys.executable, 'files/start2.py'])
+            subprocess.run([sys.executable, 'files/start_2.py'])
         elif choice == '4':
-            subprocess.run([sys.executable, 'files/start3.py'])
+            subprocess.run([sys.executable, 'files/start_3.py'])
         elif choice == '0':
             print("Выход...")
             break
